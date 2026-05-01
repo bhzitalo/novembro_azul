@@ -60,8 +60,11 @@ Apresentar informações essenciais sobre o **Novembro Azul** de forma clara e d
 novembro_azul/
 │
 ├── dicas.php
+├── css/
+│   └── style.css
 ├── assets/
 │   └── preview.png
+│   └── novembro_azul.jpeg
 └── README.md
 ```
 
