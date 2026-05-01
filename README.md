@@ -108,6 +108,7 @@ Novas funcionalidades e melhorias visuais poderão ser adicionadas futuramente.
 ## 👨‍💻 Autor
 
 **Italo Souza**
+
 **Curso:** Análise e Desenvolvimento de Sistemas
 
 > "Prevenir é um ato de coragem. Cuide da sua saúde."
